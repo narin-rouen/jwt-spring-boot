@@ -320,9 +320,9 @@ This project is open source and available under the MIT License.
 ## 📞 Contact & Support
 
 For questions, feedback, or opportunities:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **Email:** rouennarin1235@gmail.com
+- **LinkedIn:** [Narin Rouen](https://www.linkedin.com/in/narinrouen/)
+- **GitHub:** [@narin-rouen](https://github.com/narin-rouen)
 
 ---
 
